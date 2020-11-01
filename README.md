@@ -16,15 +16,15 @@ The starter repo has all of the asset files and JS logic but empty HTML and CSS 
 
 * **Option 1**
 
-    🍴 Fork the `https://github.com/maeeast/spooky-matching-starter` repo!
+    🍴 Fork the `https://github.com/BeastRWA8938/Spooky_Matching` repo!
 
 * **Option 2**
 
-    👯 Clone this repo to your local machine using `https://github.com/maeeast/spooky-matching-starter`
+    👯 Clone this repo to your local machine using `https://github.com/BeastRWA8938/Spooky_Matching`
 
 * **Option 3**
 
-    💻 Download this repo as a zip file to your local machine using `https://github.com/maeeast/spooky-matching-starter`
+    💻 Download this repo as a zip file to your local machine using `https://github.com/BeastRWA8938/Spooky_Matching`
 
 ### Step 2
 
